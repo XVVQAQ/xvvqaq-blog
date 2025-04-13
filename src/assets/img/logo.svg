@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 59.06 59.09" height="50px" width="50px">
+  <defs>
+    <clipPath id="clippath">
+      <polygon points="25.51 44.6 25.51 44.6 26.51 44.6 26.51 52.6 25.51 52.6 25.51 44.6" style="fill: none; stroke-width: 0px;"/>
+    </clipPath>
+    <clipPath id="clippath-1">
+      <polygon points="33.35 44.6 33.35 44.6 32.35 44.6 32.35 52.6 33.35 52.6 33.35 44.6" style="fill: none; stroke-width: 0px;"/>
+    </clipPath>
+  </defs>
+  <g id="_环" data-name="环">
+    <g>
+      <circle cx="29.51" cy="30.6" r="28" style="fill: #fff; stroke-width: 0px;"/>
+      <path d="M59.05,30.6c-.69,25.28-31.75,37.83-49.95,20.41C-6.19,36.65-1.5,10.72,17.86,2.48c20-8.69,41.79,6.6,41.19,28.12h0ZM55.97,30.6C55.29,8.06,27.54-3.12,11.28,12.37-2.47,25.14,1.71,48.52,19.04,55.88c17.98,7.85,37.52-5.93,36.93-25.28h0Z" style="fill: #000; stroke-width: 0px;"/>
+    </g>
+  </g>
+  <g id="_图标主体" data-name="图标主体">
+    <polygon points="40.76 30.6 29.51 53.1 18.26 30.6 29.51 8.1 40.76 30.6" style="fill: #fff; stroke: #000; stroke-miterlimit: 10; stroke-width: 2px;"/>
+    <polygon points="29.51 39.33 20.18 51.6 38.84 51.6 29.51 39.33" style="fill: #fff; stroke: #fff; stroke-miterlimit: 10; stroke-width: 2px;"/>
+    <polygon points="29.51 40.1 20.75 47.1 38.28 47.1 29.51 40.1" style="fill: #fff; stroke: #000; stroke-miterlimit: 10;"/>
+    <ellipse cx="29.51" cy="32.26" rx="4.62" ry="4.25" style="fill: #fff; stroke: #000; stroke-miterlimit: 10;"/>
+    <path d="M29.39,35.51c-1.99-.07-3.56-1.59-3.5-3.38s1.74-3.19,3.74-3.12,3.56,1.59,3.5,3.38-1.74,3.19-3.74,3.12Z" style="fill: #fff; stroke: #fff; stroke-miterlimit: 10;"/>
+    <rect x="28.01" y="34.1" width="3" height="10" style="fill: #fff; stroke: #000; stroke-miterlimit: 10;"/>
+    <rect x="28.01" y="35.1" width="3" height="10" style="fill: #fff; stroke: #000; stroke-miterlimit: 10;"/>
+    <path d="M31.21,34.66l.07-.12c.75-1.31-.19-2.94-1.7-2.94h-.14c-1.51,0-2.45,1.63-1.7,2.94l.07.12c.75,1.31,2.64,1.31,3.39,0Z" style="fill: #fff; stroke: #fff; stroke-miterlimit: 10;"/>
+    <polygon points="29.51 40.1 22.05 47.1 36.98 47.1 29.51 40.1" style="fill: #fff; stroke: #fff; stroke-miterlimit: 10;"/>
+    <rect x="24.01" y="49.1" width="11" height="6" style="fill: #fff; stroke: #fff; stroke-miterlimit: 10;"/>
+    <g id="_尾迹" data-name="尾迹">
+      <g>
+        <g id="_镜像重复_" data-name="&amp;lt;镜像重复&amp;gt;">
+          <g style="clip-path: url(#clippath);">
+            <line x1="26.01" y1="52.6" x2="26.01" y2="44.6" style="fill: #fff; stroke: #000; stroke-miterlimit: 10;"/>
+          </g>
+        </g>
+        <g id="_镜像重复_-2" data-name="&amp;lt;镜像重复&amp;gt;">
+          <g style="clip-path: url(#clippath-1);">
+            <line x1="32.85" y1="52.6" x2="32.85" y2="44.6" style="fill: #fff; stroke: #000; stroke-miterlimit: 10;"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

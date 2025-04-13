@@ -3,9 +3,7 @@
 </script>
 
 <template>
-<div class="page-content">
-  notingAAAAAA
-</div>
+
 </template>
 
 <style scoped>
